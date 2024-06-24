@@ -22,7 +22,7 @@ Welcome to the Node.js User Management System! This system allows you to manage 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/nodejs-user-management-system.git`
+1. Clone the repository: `git clone https://github.com/AnasHany219/Node.js-User-Management-System.git`
 2. Navigate to the project directory: `cd nodejs-user-management-system`
 3. Install dependencies: `npm install`
 4. Set up environment variables by creating a `.env` file based on `.env.example` and adding your MongoDB URI and JWT secret.
