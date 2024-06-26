@@ -1,6 +1,6 @@
-# 🚀 Node.js User Management System 🎉
+# 🚀 Node.js Blog 🎉
 
-Welcome to the Node.js User Management System! This system allows you to manage users, posts, and more with ease.
+Welcome to the Node.js Blog! This system allows you to manage users, posts, and more with ease.
 
 ## Features
 
